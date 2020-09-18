@@ -17,7 +17,7 @@ From left to right: 2D Convolution, Separable Filters, Separable Filters + Slidi
 </p>
 
 #### Conclusion
-The output from all the three variations of the mean filters are the same. However the convolution has become faster
+The output from all the three variations of the mean filters are the same. However the convolution becomes faster.
 
 #### Instruction
 The following command needs to be executed first to create an executable,
