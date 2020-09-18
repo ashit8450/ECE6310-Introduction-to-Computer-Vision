@@ -26,7 +26,7 @@ The following command needs to be executed first to create an executable,
 The following command is then executed to run the program,
 `./<executable name>`
 
-Note: While running the program, clone the entire repository for the input images
+Note: While running the program, clone the entire repository, in order to use the input images.
 
  
 
