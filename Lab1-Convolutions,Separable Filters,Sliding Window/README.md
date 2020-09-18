@@ -11,9 +11,9 @@ In this assignment, three versions of a 7x7 mean filter were used to perform con
 #### Output Images
 From left to right: 2D Convolution, Separable Filters, Separable Filters + Sliding Windows
 <p float="left">
-  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolutions%2CSeparable%20Filters%2CSliding%20Window/images/smoothed.jpg" width="250" />
-  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolutions%2CSeparable%20Filters%2CSliding%20Window/images/smoothed_sep.jpg" width="250" />
-  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolutions%2CSeparable%20Filters%2CSliding%20Window/images/smoothed_sep_sw.jpg" width="250" />
+  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolutions%2CSeparable%20Filters%2CSliding%20Window/images/smoothed.jpg" width="310" />
+  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolutions%2CSeparable%20Filters%2CSliding%20Window/images/smoothed_sep.jpg" width="310" />
+  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolutions%2CSeparable%20Filters%2CSliding%20Window/images/smoothed_sep_sw.jpg" width="310" />
 </p>
 
 ### 3)Execution of file
