@@ -1,6 +1,6 @@
 # ECE6310-Introduction-to-Computer-Vision
 
-This repository consists of the assignments and project that will be done as part of the coursework ECE6310- Introduction to COmputer Vision for the Fall Semester 2020 at Clemson University.
+This repository consists of the assignments and project that will be done as part of the coursework ECE6310- Introduction to Computer Vision for the Fall Semester 2020 at Clemson University.
 
 ### Course Modules
 - Histogram, Convolution and Smoothing
