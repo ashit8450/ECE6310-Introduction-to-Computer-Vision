@@ -18,7 +18,7 @@ From left to right: MSF Image, Binary Image(white dots showing probable location
 #### Conclusion
 The ROC curve plot shows the ideal relation between True Positive Rate and False Positive Rate.
 <p float="left">
-  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-%20Optical%20Character%20Recognition/images/ROC%20Curve.jpg" width="310" />
+  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-%20Optical%20Character%20Recognition/images/ROC%20Curve.jpg" width="420" />
 </p>
 
 #### Instruction
