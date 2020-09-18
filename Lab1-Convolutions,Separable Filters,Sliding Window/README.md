@@ -16,9 +16,17 @@ From left to right: 2D Convolution, Separable Filters, Separable Filters + Slidi
   <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolutions%2CSeparable%20Filters%2CSliding%20Window/images/smoothed_sep_sw.jpg" width="310" />
 </p>
 
-### 3)Execution of file
-The following command needs to be executed to run the program,
-`python prmplanner.py`
+#### Conclusion
+The output from all the three variations of the mean filters are the same. However the convolution has become faster
+
+#### Instruction
+The following command needs to be executed first to create an executable,
+`gcc -o <executable name> lab1_ashit.c`
+
+The following command is then executed to run the program,
+`./<executable name>`
+
+Note: While running the program, clone the entire repository for the input images
 
  
 
