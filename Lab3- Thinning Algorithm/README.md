@@ -1,7 +1,7 @@
-# Assignment 2 : Optical Character Recognition
+# Assignment 3 : Thinning Algorithm
 
 ### Problem Statement
-In this assignment, the letter 'e' has to be detected in an image using the matched spatial filter. The accuracy of the convolution is verified from the ground truth locations provided. The subsequent True Positives, False Positives, True Negatives and False Negatives are used to compute the ROC curve for the entire range of threshold of the 8-bit image scale.
+In this project, I had to implement a Zhang-Suen thinning algorithm which would help in weeding out false positives in detecting the letter "e" in the image provided. This project builds up on the previous one to make the optical character recognition more robust. Please read `lab3.pdf` for more details into this project.
 
 #### Original Image
 <p float="left">
