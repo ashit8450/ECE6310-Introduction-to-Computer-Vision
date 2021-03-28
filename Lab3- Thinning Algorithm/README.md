@@ -3,15 +3,15 @@
 ### Problem Statement
 In this project, I had to implement a Zhang-Suen thinning algorithm which would help in weeding out false positives in detecting the letter "e" in the image provided. This project builds up on the previous one to make the optical character recognition more robust. Please read `lab3.pdf` for more details into this project.
 
-#### Original Image
+#### Original Image, MSF Image
 <p float="left">
   <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-%20Optical%20Character%20Recognition/images/parenthood.jpg" width="310" />
+  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-%20Optical%20Character%20Recognition/images/parenthood_msf.jpg" width="310" />
 </p>
 
 #### Output Images
-From left to right: MSF Image, Original Image of letter `e` as in input image, Binary Image of letter `e`, Thinned Image of letter `e`, Detection of letter `e`
+From left to right: Original Image of letter `e` as in input image, Binary Image of letter `e`, Thinned Image of letter `e`, Detection of letter `e`
 <p float="left">
-  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-%20Optical%20Character%20Recognition/images/parenthood_msf.jpg" width="310" />
   <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-%20Thinning%20Algorithm/images/Original_e_letter.png" width="155" />
   <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-%20Thinning%20Algorithm/images/Binary_e_letter.png" width="155" />
   <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-%20Thinning%20Algorithm/images/Thinned_e_letter.png" width="155" />
