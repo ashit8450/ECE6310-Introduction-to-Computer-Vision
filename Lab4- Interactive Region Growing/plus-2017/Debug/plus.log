@@ -1,0 +1,19 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.c
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(85,15): warning C4101: 'xPos': unreferenced local variable
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(83,9): warning C4101: 'hDC': unreferenced local variable
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(85,27): warning C4101: 'j': unreferenced local variable
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(85,25): warning C4101: 'i': unreferenced local variable
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(85,20): warning C4101: 'yPos': unreferenced local variable
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(84,21): warning C4101: 'text': unreferenced local variable
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(85,29): warning C4101: 'color': unreferenced local variable
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(339,57): warning C4047: 'function': 'BOOL *' differs in levels of indirection from 'BOOL **'
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(339,49): warning C4024: 'GetDlgItemInt': different types for formal and actual parameter 3
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(345,57): warning C4047: 'function': 'BOOL *' differs in levels of indirection from 'BOOL **'
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(345,49): warning C4024: 'GetDlgItemInt': different types for formal and actual parameter 3
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(400,28): warning C4020: 'RegionGrow': too many actual parameters
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(376,21): warning C4101: 'RegionPixels': unreferenced local variable
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(488,1): warning C4029: declared formal parameter list different from definition
+D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\main.c(522,91): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  plus.vcxproj -> D:\Clemson\Clemson_Fall_2020\ECE6310_Computer_Vision\Lab_projects\Lab_4\plus-2017\.\Debug\plus.exe
