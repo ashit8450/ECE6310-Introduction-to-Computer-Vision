@@ -21,7 +21,7 @@ From left to right: Original Image of letter `e` as in input image, Binary Image
 #### Conclusion
 The ROC curve plot shows the ideal relation between True Positive Rate and False Positive Rate.
 <p float="left">
-  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-%20Thinning%20Algorithm/images/ROC%20Curve.png" width="610" />
+  <img src="https://github.com/ashit8450/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-%20Thinning%20Algorithm/images/ROC%20Curve.png" width="410" />
 </p>
 We can see that in this ROC curve the False Positive Rate axis has been drastically reduced. This indicates that we have been successful in removing false positives from our OCR algorithm.
 
